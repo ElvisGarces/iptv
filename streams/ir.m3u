@@ -69,8 +69,8 @@ https://sltwohls.wns.live/hls/stream.m3u8
 http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
 #EXTINF:-1 tvg-id="TinTV.us",Tin TV (720p) [Not 24/7]
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
-#EXTINF:-1 tvg-id="VarzeshTV.ir",Varzesh (480p)
-https://af.ayas.ir/hls2/varzeshtv.m3u8
+#EXTINF:-1 tvg-id="VarzeshTV.ir",IRIB Varzesh (1080p)
+https://live.aionet.ir/hls/varzesh/varzesh.m3u8
 #EXTINF:-1 tvg-id="VOX1.ir",VOX1 (720p) [Not 24/7]
 https://hls.vox1.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="YourTimeTV.ir",YourTime TV (720p) [Not 24/7]
@@ -85,10 +85,10 @@ https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
 http://cdnlive.irib.ir/live-channels/smil:sahar3/playlist.m3u8
 #EXTINF:-1 tvg-id="",Toonix (720p) [Not 24/7]
 http://51.210.227.134/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IRIB3.ir",IRIB 3 (480p)
+#EXTINF:-1 tvg-id="IRIB3.ir",IRIB3 (480p)
 https://af.ayas.ir/hls2/tv3.m3u8
-#EXTINF:-1 tvg-id="iFilmPersian.ir",iFilm Persian (720p)
-https://live1.presstv.ir/live/ifilmfa.m3u8
+#EXTINF:-1 tvg-id="iFilmPersian.ir",iFilm Persian (540p)
+https://live.aionet.ir/hls/ifilm/ifilm.m3u8
 #EXTINF:-1 tvg-id="AioSport1.ir",Aio Sport 1 (480p) 
 https://af.ayas.ir/hls2/aiosport.m3u8
 #EXTINF:-1 tvg-id="AioSport2.ir",Aio Sport 2 (480p) [Not 24/7] 
@@ -165,3 +165,47 @@ https://live1.presstv.ir/live/hausatvha/index.m3u8
 http://167.235.204.214/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CaltexTV.ir",Caltex TV (720p) [Not 24/7]
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:-1 tvg-id="IRIB1.ir",IRIB1 (720p)
+https://live.aionet.ir/hls/tv1/tv1.m3u8
+#EXTINF:-1 tvg-id="IRIB2.ir",IRIB2 (540p)
+https://live.aionet.ir/hls/tv2/tv2.m3u8
+#EXTINF:-1 tvg-id="IRIB4.ir",IRIB4 (540p)
+https://live.aionet.ir/hls/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="IRIB5.ir",IRIB5 (540p)
+https://live.aionet.ir/hls/tv5/tv5.m3u8
+#EXTINF:-1 tvg-id="IRINN.ir",IRINN (540p)
+https://live.aionet.ir/hls/irinn/irinn.m3u8
+#EXTINF:-1 tvg-id="AmouzeshTV.ir",IRIB Amouzesh (540p)
+https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8
+#EXTINF:-1 tvg-id="IRIBMostanad.ir",IRIB Mostanad (540p)
+https://live.aionet.ir/hls/mostanad/mostanad.m3u8
+#EXTINF:-1 tvg-id="NamayeshTV.ir",IRIB Namayesh (540p)
+https://live.aionet.ir/hls/namayesh/namayesh.m3u8
+#EXTINF:-1 tvg-id="Tamasha.ir",IRIB Tamasha (540p)
+https://live.aionet.ir/hls/tamasha/tamasha.m3u8
+#EXTINF:-1 tvg-id="SalamatTV.ir",IRIB Salamat (540p)
+https://live.aionet.ir/hls/salamat/salamat.m3u8
+#EXTINF:-1 tvg-id="Pooya.ir",IRIB Pooya & Nahal (540p)
+https://live.aionet.ir/hls/pooya/pooya.m3u8
+#EXTINF:-1 tvg-id="Nasim.ir",IRIB Nasim (540p)
+https://live.aionet.ir/hls/nasim/nasim.m3u8
+#EXTINF:-1 tvg-id="GEMSeries.ir",GEM Series + (720p)
+https://gg.hls2.xyz/live/IR%20-%20GEM%20Series%20Plus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6MzI6MDMgQU0maGFzaF92YWx1ZT1WUFZ6aWNjU00zS2NuSjFMWTdEaWVRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMTV.ir",GEM TV (480p)
+https://hd.90minlive.online/live/gemtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6MzY6NTcgQU0maGFzaF92YWx1ZT1HelU5RHVKcThoN3NEOHFMejNIUDlBPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMBollywood.ir",GEM Bollywood (480p)
+https://hd.90minlive.online/live/gemboll/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6Mzc6NTYgQU0maGFzaF92YWx1ZT0vcXgzTDRsLzlkTjZYSVpmRTYwUklnPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMClassic.ir",GEM Classic (480p)
+https://hd.90minlive.online/live/gemclass/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6Mzk6MDkgQU0maGFzaF92YWx1ZT16VVBQYkFVbm1XOUdrTUVEQzAvOWN3PT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMTravel.ir",GEM Travel (480p)
+https://hd.90minlive.online/live/gemtravel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6Mzk6NTggQU0maGFzaF92YWx1ZT1pZmlSVFJzdllMQzZzaUdQR2VnWUFRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMFilm.ir",GEM Film (480p)
+https://hd.90minlive.online/live/gemfilm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDE6MTkgQU0maGFzaF92YWx1ZT1FNlVXRUl3RFF3YzVsWU1RQ2xnclpnPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMFood.ir",GEM Food (480p)
+https://hd.90minlive.online/live/gemfood/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDI6MDIgQU0maGFzaF92YWx1ZT0zbVVOSGdvOVRHeWw1T1JLWWg1QmdBPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMFood.ir",GEM Life (480p)
+https://hd.90minlive.online/live/gemlife/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDI6NDIgQU0maGFzaF92YWx1ZT1RRVQ2dUU3dyt5enFZKzA3S1M4Q1hRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMDrama.ir",GEM Drama (480p)
+https://hd.90minlive.online/live/gemdrama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDQ6MjQgQU0maGFzaF92YWx1ZT1MREI3Y3dqTWdNbEJMVzlUNTFINFN3PT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMJunior.ir",GEM Junior (480p)
+https://hd.90minlive.online/live/gemjunior/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDQ6NTkgQU0maGFzaF92YWx1ZT1xNFNTaEhadVVTeDJEOG1LUUZzV1lRPT0mdmFsaWRtaW51dGVzPTU=
